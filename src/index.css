@@ -112,11 +112,11 @@ section { position: relative; }
 .text-accent-pink        { color: var(--accent-pink); }
 
 .bg-gradient-to-r.from-primary-purple.to-neon-blue {
-  background: linear-gradient(to right, var(--primary-purple), var(--neon-blue));
+  background-image: linear-gradient(to right, var(--primary-purple), var(--neon-blue));
 }
 
 .bg-gradient-to-br.from-primary-purple.to-neon-blue {
-  background: linear-gradient(to bottom right, var(--primary-purple), var(--neon-blue));
+  background-image: linear-gradient(to bottom right, var(--primary-purple), var(--neon-blue));
 }
 
 .text-transparent { color: transparent; }

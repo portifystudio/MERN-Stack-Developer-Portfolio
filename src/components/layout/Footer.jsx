@@ -42,7 +42,7 @@ const Footer = () => {
               <div className="w-10 h-10 bg-gradient-to-br from-primary-purple to-neon-blue rounded-xl flex items-center justify-center text-white">
                 <LayoutDashboard size={22} />
               </div>
-              <span className="text-2xl font-extrabold tracking-tight">PORTIFY.<span className="text-neon-blue">STUDIO</span></span>
+              <span className="text-2xl font-extrabold tracking-tight">MADHAN<span className="text-neon-blue"></span></span>
             </a>
             <p className="text-sm text-text-dark-muted leading-relaxed max-w-xs">
               Building premium digital experiences with the MERN stack. Focused on performance, design, and scalability.
